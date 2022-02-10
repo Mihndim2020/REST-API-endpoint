@@ -55,7 +55,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse community
+- Chi Abongwa Joel
+- Ateji Christantus 
 
 
 ## 📝 License
